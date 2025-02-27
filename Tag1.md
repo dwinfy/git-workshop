@@ -274,6 +274,7 @@ Erstelle eine Datei mit dem Namen `.gitignore` im Root Deines Repos und schließ
 - den Inhalt eines Ordners mit dem Namen `logs`
 - dann check die Datei ein
 
+[einen infotext zu Tokens hinzufügen damit es im zweifelsfall nachgelesen werden kann]
 
 ## Teil 5: Abschluss und Ausblick
 
